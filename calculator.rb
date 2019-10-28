@@ -5,4 +5,3 @@ puts "enter another number:
 num2 = gets.chomp()"
 
 puts (num1 + num2)
-filter_parameter_logging
