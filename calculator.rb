@@ -1,1 +1,2 @@
-puts "enter a number:"
+puts "enter a number:
+num1="
